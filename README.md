@@ -29,22 +29,25 @@ This is a `python-based` application which provides voice based mailing service 
     ### Python Installation
     `pip install smtplib`
     
-    * imaplib </br>
+  * imaplib </br>
       IMAP is an email retrieval protocol which does not download the emails. It just reads them and displays them. This is very useful in low bandwidth condition. Python’s client side library called imaplib is used for accessing emails over imap protocol.
       ### Python Installation
     `pip install imaplib`
     
-    * BeautifulSoup</br>
+  * BeautifulSoup </br>
       Beautiful Soup is a library for pulling data out of HTML and XML files. It provides ways of navigating, searching, and modifying parse trees.
 
     ### Python Installation
     `pip install beautifulsoup4`
     
-    * Pyglet</br>
+  * Pyglet </br>
     pyglet is a cross-platform windowing and multimedia library for Python, intended for developing games and other visually rich applications.
     
     ### Python Installation
     `pip install pyglet`
+    
+    
+    
     
     
     
